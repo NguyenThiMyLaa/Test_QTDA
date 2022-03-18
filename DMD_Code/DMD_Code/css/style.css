@@ -940,7 +940,8 @@ ol {
 }
 
 .latest-product__text h4 {
-	font-weight: 700;
+	font-size: 1.3rem;
+	font-weight: 500;
 	color: #1c1c1c;
 	margin-bottom: 45px;
 }
@@ -1906,6 +1907,7 @@ ol {
 .shoping__cart__table table tbody tr td.shoping__cart__item img {
 	display: inline-block;
 	margin-right: 25px;
+	width: 60px;
 }
 
 .shoping__cart__table table tbody tr td.shoping__cart__item h5 {
